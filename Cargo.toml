@@ -1,0 +1,9 @@
+[package]
+name = "rust_check"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sivasankar Selvam <sivasankarkarthick26200126@gmail.com>"]
+description = "A short description of your project"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/sivasankar459/rust_check"
+
