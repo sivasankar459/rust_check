@@ -2,11 +2,11 @@ pub fn add(left: u64, right: u64) -> u64 {
     left + right
 }
 
-pub fn sub(a: u32 , b: u32) -> {
+pub fn sub(a: u32 , b: u32) -> u32{
 	a - b
 }
 
-pub fn mul(a: u32 , b: u32) ->{
+pub fn mul(a: u32 , b: u32) -> u32 {
 	a * b
 }
 
