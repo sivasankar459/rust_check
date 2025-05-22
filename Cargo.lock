@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "rust_check"
+name = "TextEditor"
 version = "0.1.2"

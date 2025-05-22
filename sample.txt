@@ -1,0 +1,7 @@
+this is a sample text
+my name is siva
+i am a boy
+working in rust
+rust developer
+work location chennai
+good knowledge in unix operation system
