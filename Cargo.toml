@@ -1,11 +1,11 @@
 [package]
-name = "TextEditor"
+name = "text_editor"
 version = "0.1.2"
 edition = "2021"
 authors = ["Sivasankar Selvam <sivasankarkarthick26200126@gmail.com>"]
 description = "A short description of your project"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/sivasankar459/TextEditor"
+repository = "https://github.com/sivasankar459/text_editor"
 
 [package.metadata.docs.rs]
 all-features = true
